@@ -1,0 +1,8 @@
+@keyframes caixa{
+    from{
+        background: url(../imagens/losango_icone_portal.png) no-repeat center;
+    }
+    to{
+        background: none;
+    }
+}
